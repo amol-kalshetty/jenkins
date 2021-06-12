@@ -33,6 +33,9 @@ THE SOFTWARE.
 
   <artifactId>jenkins-war</artifactId>
   <packaging>war</packaging>
+  
+  <artifactId>jenkins-jar</artifactId>
+  <packaging>jar</packaging>
 
   <name>Jenkins war</name>
   <description>Creates a war file. Also includes additional static web resources, such as images, CSS, JavaScript, and some HTML files.</description>
